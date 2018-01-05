@@ -1,4 +1,4 @@
 module.exports = {
-  apiKey: 'foobar',
+  apiKey: 'wegopals',
   secretKey: '1234567'
 };
